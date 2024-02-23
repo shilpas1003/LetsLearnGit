@@ -12,7 +12,7 @@ def main():
     result = diff_of_variables(num1, num2)
 
     # Displaying the result
-    print("The diff of", num1, "and", num2, "is:", result)
+    print("The d of", num1, "and", num2, "is:", result)
 
 if __name__ == "__main__":
     main()
